@@ -1,0 +1,33 @@
+.pp-wrapper {
+    border-bottom: 2px dotted #E5E5E5;
+    float: left;
+    margin: 0 0 5px -23px;
+    padding: 2px;
+}
+ul.pp-postsli {
+list-style-type: none;
+
+}
+.pp-postsli li {
+    background-image: none !important;
+    margin: 0;
+    padding: 0;
+}
+
+.pp-thumbnail {
+    float: left;
+    margin: 5px!Important;
+}
+
+.pp-thumbnail img {
+    border-bottom: 1px solid #E5E5E5;
+    margin: 0;
+}
+
+
+
+.pp-title {
+    font-weight: bold;
+}
+
+
